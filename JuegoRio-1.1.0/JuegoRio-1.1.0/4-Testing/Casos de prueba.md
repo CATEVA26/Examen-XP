@@ -1,3 +1,20 @@
+<h1 align="center">
+    Escuela Politécnica Nacional<br>
+    Facultad de Ingeniería en Sistemas<br>
+    Metodologías Ágiles<br>
+</h1>
+
+### Integrantes - Grupo 3
+
+Guilca Miguel  
+Joel Guingla  
+Stefano Landázuri  
+Juan Pablo Obregon  
+Cristofer Paucar  
+Kenny Pinchao
+
+# Casos de Prueba
+
 ### Caso de prueba 1: Movimiento válido de Caperucita hacia la derecha
 - **Entrada esperada:** Opción 1 (MOVER CAPERUCITA) y luego 1 (MOVER A LA DERECHA)
 - **Resultado esperado:** Caperucita se mueve de la izquierda a la derecha del río.

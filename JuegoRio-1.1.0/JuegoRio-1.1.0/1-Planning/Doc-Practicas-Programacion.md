@@ -15,9 +15,13 @@ Kenny Pinchao
 
 # Documento de Prácticas de Codificación
 
+## REPOSITORIO GIT-HUB GRUPO 3
+
+   https://github.com/CATEVA26/Examen-XP
+
 ## Convenciones y Prácticas Recomendadas
 
-### Nomenclatura de Variables:
+### Nomenclatura de Variables
 
 1. **Elementos del juego:**
    - Se utilizará nombres descriptivos para las variables que representan a los elementos del juego.
@@ -27,13 +31,13 @@ Kenny Pinchao
    - Si es necesario se utilizará nombres explicativos en los métodos para representar estados del juego.
    - Ejemplo: `pausa()`, `realizarJugada()`, etc.
 
-### Comentarios:
+### Comentarios
 
 1. **Comentarios Explicativos:**
    - Se incluirá comentarios explicativos cuando sea necesario para aclarar el propósito de una sección de código.
    - Ejemplo: `// Simula un trabajo de medio segundo`.
 
-### Estructura del Código:
+### Estructura del Código
 
 1. **Modularización:**
    - Ejemplo: Separa la lógica del menú principal, la lógica del juego, etc.
@@ -41,12 +45,13 @@ Kenny Pinchao
 2. **Organización de Importaciones:**
    - Se organizará las importaciones de manera lógica y agrúpalas según su origen (paquetes del sistema, bibliotecas externas, tus propios módulos).
    - Ejemplo:
+  
      ```java
      import java.util.*;
      import mi.paquete.clases.*;
      ```
 
-### Control de Versiones:
+### Control de Versiones
 
 1. **Comentarios de Confirmación:**
    - Se incluirá comentarios claros al confirmar cambios para explicar el propósito de la confirmación.
